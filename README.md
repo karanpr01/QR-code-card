@@ -5,6 +5,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Frontend Mentor - [@karanpr01](https://www.frontendmentor.io/profile/karanpr01)
 - Twitter - [@PremAnilkarn1](https://x.com/PremAnilkarn1)
+- live preview - (https://qrcodecardcompo.netlify.app/)
 
 
 

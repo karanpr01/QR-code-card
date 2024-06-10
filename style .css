@@ -6,6 +6,9 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
 }
 
 .container {
@@ -14,7 +17,6 @@ body {
     background-color: hsl(0, 0%, 100%);
     height: 497px;
     width: 264px;
-    align-items: center;
     display: flex;
     flex-direction: column;
     justify-content: center;
